@@ -7,5 +7,5 @@ Cyril Nérin - Alexandre Perbet - Paul Orluc - Walid Chrimni - Zakaria Bekkr - H
 - [dataset airbnb locations](map.html)
 
 ### Data source : 
-- [Paris dataset](http://insideairbnb.com/get-the-data.html)
+- [Airbnb Paris dataset source](http://insideairbnb.com/get-the-data.html)
 - [Data dictionary](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=982310896)
