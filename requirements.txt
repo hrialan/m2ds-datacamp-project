@@ -1,7 +1,6 @@
 pandas
 numpy
 folium
-zipfile
 missingno
 matplotlib
 wordcloud
