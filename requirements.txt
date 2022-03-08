@@ -14,3 +14,4 @@ ipywidgets
 widgetsnbextension
 jupyter_contrib_nbextensions
 ipylab
+shap
