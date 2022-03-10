@@ -1,5 +1,8 @@
 numpy
 scipy
+ramp-workflow
+ramp-utils
+scikit-learn
 pandas
 matplotlib
 seaborn
@@ -15,4 +18,3 @@ widgetsnbextension
 jupyter_contrib_nbextensions
 ipylab
 shap 
-rampwf
