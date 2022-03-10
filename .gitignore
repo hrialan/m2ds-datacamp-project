@@ -1,5 +1,5 @@
-dataset/airbnb_paris.csv
-dataset/listings.csv
+data/airbnb_paris.csv
+data/listings.csv
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,python,visualstudiocode,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,python,visualstudiocode,jupyternotebooks

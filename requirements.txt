@@ -3,6 +3,7 @@ scipy
 ramp-workflow
 ramp-utils
 scikit-learn
+scipy
 pandas
 matplotlib
 seaborn
