@@ -138,8 +138,8 @@ def _read_data(path=".", split="train"):
         X[object_col] = enc.transform(X[[object_col]])
 
     X_train, X_test, y_train, y_test = train_test_split(
-        X, y, test_size=0.2, random_state=42)
-        #stratify=X["room_type"].values.tolist())
+        X, y, test_size=0.2, random_state=42,
+        stratify=X["room_type"].values.tolist())
 
     if split == "train":
         return X_train.to_numpy(), y_train.to_numpy()
