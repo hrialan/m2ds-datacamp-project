@@ -30,6 +30,12 @@ Such an algorithm could be very useful for rental sites, Here are the potentials
 pip install -U -r requirements.txt
 ```
 
+#### Get data
+
+```bash
+python download_data.py
+```
+
 #### Test a submission
 
 ```bash
