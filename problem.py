@@ -4,7 +4,7 @@
 import pandas as pd
 import numpy as np
 from scipy import stats
-from sklearn.model_selection import RepeatedStratifiedKFold
+from sklearn.model_selection import KFold
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import OrdinalEncoder
 
@@ -156,5 +156,5 @@ def get_test_data(path=".", split='test'):
 
 
 def get_cv(X, y):
-    cv = RepeatedStratifiedKFold(n_splits=5, n_repeats=2, random_state=42)
+    cv = KFold(n_splits=10)
     return cv.split(X, y)
